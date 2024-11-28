@@ -1,0 +1,26 @@
+html, body {
+  margin: auto;
+  padding: 0;
+  text-align: center;
+}
+
+canvas {
+  display: block;
+}
+
+.title-container {
+  height: 150px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#p5-canvas-container {
+  margin: auto;
+  width: 600px;
+}
+
+#p5-canvas-container img {
+  width: 600px;
+}
